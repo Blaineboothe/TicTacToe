@@ -1,2 +1,2 @@
-# School_Projects
+# Tic_Tac_Toe Project
 
